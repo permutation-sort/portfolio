@@ -31,8 +31,8 @@
         </div>
         <div class="hero-content text-center">
           <div class="max-w-md">
-            <h1 class="text-5xl font-bold mb-4 text-white">👋 Helloooo!</h1>
-            <p class="py-6 text-2xl text-white">I'm Matt - a product manager based in Seattle, Washington 🌧️</p>
+            <h1 class="text-6xl font-bold mb-4 text-white">👋 Helloooo!</h1>
+            <p class="py-6 text-3xl text-white">I'm Matt - a product manager based in Seattle, Washington 🌧️</p>
           </div>
         </div>
       </div>

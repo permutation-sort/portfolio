@@ -25,7 +25,7 @@
   <div class="hero flex-grow">
     <div class="hero-content text-center">
       <div class="max-w-md mx-auto">
-        <h1 class="text-5xl font-bold mb-4 text-white">Resume</h1>
+        <h1 class="text-6xl font-bold mb-4 text-white">Resume</h1>
         <button class="btn btn-primary">
   <a href="/resume.pdf" download>
     Download PDF

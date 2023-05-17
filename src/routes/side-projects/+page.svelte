@@ -25,8 +25,8 @@
   <div class="hero flex-grow">
     <div class="hero-content text-center">
       <div class="max-w-md mx-auto">
-        <h1 class="text-5xl font-bold mb-4 text-white">A few ideas</h1>
-<p class="py-4 text-white text-lg">Here is an ever-growing list of things either I'd like to or am actively working on. If any of these look interesting, I'd love to pair. <a href="mailto:matthewkoenig@acm.org">Let's connect!</a></p>
+        <h1 class="text-6xl font-bold mb-4 text-white pt-5">A few ideas</h1>
+<p class="py-4 text-white text-2xl">Here is an ever-growing list of things either I'd like to or am actively working on. If any of these look interesting, I'd love to pair. <a href="mailto:matthewkoenig@acm.org">Let's connect!</a></p>
       </div>
     </div>
   </div>
